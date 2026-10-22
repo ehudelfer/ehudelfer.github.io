@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Hi I'm Ehud
+title: Hi I'm Ehud 👋
 ---
 
 Welcome to my personal site! I am a **PhD student in Biochemistry** at the **Weizmann Institute of Science**, working in the laboratory of **Prof. Rivka Dikstein**. Born and raised in **Givatayim** I'm passionate about science, coding, and learning new ways to use data and automation in research.
