@@ -1,0 +1,11 @@
+title: Ehud Elfer
+description: PhD Student in Molecular Biology & Biochemistry | Weizmann Institute of Science
+theme: minima
+
+# Header navigation menu
+header_pages:
+  - index.md
+
+# Optional plugin for SEO and metadata preview
+plugins:
+  - jekyll-seo-tag
