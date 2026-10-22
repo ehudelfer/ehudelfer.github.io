@@ -3,7 +3,49 @@ layout: home
 title: Hi I'm Ehud 👋
 ---
 
-Welcome to my personal site! I am a **PhD student in Biochemistry** at the **Weizmann Institute of Science**, working in the laboratory of **Prof. Rivka Dikstein**. Born and raised in **Givatayim** I'm passionate about science, coding, and learning new ways to use data and automation in research.
+<style>
+  .profile-layout {
+    display: flex;
+    align-items: flex-start;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    margin-bottom: 1.5rem;
+  }
+
+  .profile-photo {
+    width: 220px;
+    height: 220px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 2px solid #dfe5ea;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
+    flex-shrink: 0;
+  }
+
+  .profile-text {
+    flex: 1;
+    min-width: 220px;
+  }
+
+  @media (max-width: 600px) {
+    .profile-layout {
+      display: block;
+    }
+
+    .profile-photo {
+      width: 180px;
+      height: 180px;
+      margin-bottom: 1rem;
+    }
+  }
+</style>
+
+<div class="profile-layout">
+  <img class="profile-photo" src="https://github.com/ehudelfer.png" alt="Ehud Elfer" />
+  <div class="profile-text">
+    <p>Welcome to my personal site! I am a <strong>PhD student in Biochemistry</strong> at the <strong>Weizmann Institute of Science</strong>, working in the laboratory of <strong>Prof. Rivka Dikstein</strong>. Born and raised in <strong>Givatayim</strong> and now based in <strong>Rehovot</strong>, I’m passionate about understanding how cells regulate gene expression and how viral mechanisms can hijack host pathways.</p>
+  </div>
+</div>
 
 ---
 
