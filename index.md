@@ -41,7 +41,7 @@ title: Hi I'm Ehud 👋
 </style>
 
 <div class="profile-layout">
-  <img class="profile-photo" src="https://github.com/ehudelfer.png" alt="Ehud Elfer" />
+  <img class="profile-photo" src="{{ '/assets/profile.jpg' | relative_url }}" alt="Ehud Elfer" />
   <div class="profile-text">
     <p>Welcome to my personal site! I am a <strong>PhD student in Biochemistry</strong> at the <strong>Weizmann Institute of Science</strong>, working in the laboratory of <strong>Prof. Rivka Dikstein</strong>. Born and raised in <strong>Givatayim</strong> and now based in <strong>Rehovot</strong>, I’m passionate about understanding how cells regulate gene expression and how viral mechanisms can hijack host pathways.</p>
   </div>
@@ -77,5 +77,5 @@ I joined this **Python Programming for AI** course with three clear goals:
 ## 📬 Let's Connect
 
 - **Email**: [ehud.elfer@weizmann.ac.il](mailto:ehud.elfer@weizmann.ac.il)
-- **LinkedIn**: [Ehud Elfer](https://www.linkedin.com/in/ehud-elfer)
+- **LinkedIn**: [Ehud Elfer](https://www.linkedin.com/in-ehud-elfer)
 - **GitHub**: [github.com/ehudelfer](https://github.com/ehudelfer)
