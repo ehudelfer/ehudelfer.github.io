@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Hi I'm Ehud 👋
 ---
 
 <style>
@@ -43,6 +42,7 @@ title: Hi I'm Ehud 👋
 <div class="profile-layout">
   <img class="profile-photo" src="{{ '/site_profile.jpg' | relative_url }}" alt="Ehud Elfer" />
   <div class="profile-text">
+    <h2>Hi I'm Ehud 👋</h2>
     <p>Welcome to my personal site! I am a <strong>PhD student in Biochemistry</strong> at the <strong>Weizmann Institute of Science</strong>, working in the laboratory of <strong>Prof. Rivka Dikstein</strong>. Born and raised in <strong>Givatayim</strong> and now based in <strong>Rehovot</strong>, I’m passionate about understanding how cells regulate gene expression and how viral mechanisms can hijack host pathways.</p>
   </div>
 </div>
