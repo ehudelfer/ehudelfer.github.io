@@ -77,5 +77,5 @@ I joined this **Python Programming for AI** course with three clear goals:
 ## 📬 Let's Connect
 
 - **Email**: [ehud.elfer@weizmann.ac.il](mailto:ehud.elfer@weizmann.ac.il)
-- **LinkedIn**: [Ehud Elfer](https://www.linkedin.com/in-ehud-elfer)
+- **LinkedIn**: [Ehud Elfer](https://www.linkedin.com/in/ehud-elfer)
 - **GitHub**: [github.com/ehudelfer](https://github.com/ehudelfer)
