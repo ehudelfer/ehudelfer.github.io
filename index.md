@@ -6,7 +6,7 @@ layout: home
   <img class="profile-photo" src="{{ '/site_profile.jpg' | relative_url }}" alt="Ehud Elfer" />
   <div class="profile-text">
     <h2>Hi I'm Ehud 👋</h2>
-    <p>Welcome to my personal site! I am a <strong>PhD student in Biochemistry</strong> at the <strong>Weizmann Institute of Science</strong>, working in the laboratory of <strong>Prof. Rivka Dikstein</strong>(https://www.weizmann.ac.il/Biomolecular_Sciences/dikstein/) and focusing on understanding gene regulation and translational control in eukaryotic cells.</p>
+    <p>Welcome to my personal site! I am a <strong>PhD student in Biochemistry</strong> at the <strong>Weizmann Institute of Science</strong>, working in the laboratory of <strong><a href="https://www.weizmann.ac.il/Biomolecular_Sciences/dikstein/" target="_blank" rel="noopener noreferrer">Prof. Rivka Dikstein</a></strong>.</p>
   </div>
 </div>
 
@@ -15,7 +15,7 @@ layout: home
 ## 🔬 Academic Background & Research
 
 - **B.Sc. & M.Sc. in Biotechnology Engineering** – Ben-Gurion University of the Negev
-- **Current PhD Research**: Investigating eukaryotic translation initiation, gene expression regulation, and virus-host interactions (specifically focusing on how viral proteins hijack host translational machinery).
+- **Current PhD Research**: Investigating eukaryotic translation initiation, gene expression regulation, and virus-host interactions (specifically focusing on how viral proteins hijack host translational machinery)
 - **Main Biology Methods**: Polysome profiling, Western blotting, Immunoprecipitation, SUnSET assays, RNA transfection, CRISPR knockouts. Did someone say molecular biology?!
 
 ---
@@ -40,5 +40,5 @@ I joined this **Python Programming for AI** course with three clear goals:
 ## 📬 Let's Connect
 
 - **Email**: [ehud.elfer@weizmann.ac.il](mailto:ehud.elfer@weizmann.ac.il)
-- **LinkedIn**: [Ehud Elfer](www.linkedin.com/in/ehud-elfer-53907a227)
+- **LinkedIn**: [Ehud Elfer](https://www.linkedin.com/in/ehud-elfer-53907a227)
 - **GitHub**: [github.com/ehudelfer](https://github.com/ehudelfer)
