@@ -1,5 +1,4 @@
----
----
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Poppins:wght@400;500;600;700&display=swap');
 
 :root {
   --bg-color: #fefcf5;
@@ -14,7 +13,18 @@
 body {
   background: var(--bg-color);
   color: var(--text-main);
-  font-family: "Plus Jakarta Sans", "Segoe UI", sans-serif;
+  font-family: "Poppins", "Segoe UI", sans-serif;
+  letter-spacing: 0.01em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Cormorant Garamond", Georgia, serif;
+  letter-spacing: -0.02em;
 }
 
 .profile-layout {
@@ -34,16 +44,17 @@ body {
 
 .profile-text h2 {
   margin: 0 0 0.4rem;
-  font-size: clamp(2rem, 3vw, 2.8rem);
-  line-height: 1.1;
+  font-size: clamp(2.2rem, 3vw, 3.2rem);
+  line-height: 1.05;
   color: var(--text-main);
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .profile-text p {
   margin: 0;
-  line-height: 1.7;
+  line-height: 1.75;
   color: var(--text-muted);
+  font-size: 1.02rem;
 }
 
 img.profile-photo {
@@ -70,6 +81,6 @@ img.profile-photo {
   }
 
   .profile-text h2 {
-    font-size: 2rem;
+    font-size: 2.2rem;
   }
 }
