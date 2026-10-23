@@ -9,9 +9,10 @@
   margin-bottom: 1.5rem;
 }
 
-.profile-photo {
-  width: 120px;
-  height: 120px;
+img.profile-photo {
+  display: block;
+  width: 110px;
+  height: 110px;
   object-fit: cover;
   border-radius: 50%;
   border: 2px solid #dfe5ea;
@@ -29,9 +30,9 @@
     display: block;
   }
 
-  .profile-photo {
-    width: 100px;
-    height: 100px;
+  img.profile-photo {
+    width: 90px;
+    height: 90px;
     margin-bottom: 1rem;
   }
 }
