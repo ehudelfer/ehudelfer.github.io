@@ -6,7 +6,7 @@ layout: home
   <img class="profile-photo" src="{{ '/site_profile.jpg' | relative_url }}" alt="Ehud Elfer" />
   <div class="profile-text">
     <h2>Hi I'm Ehud 👋</h2>
-    <p>Welcome to my personal site! I am a <strong>PhD student in Biochemistry</strong> at the <strong>Weizmann Institute of Science</strong>, working in the laboratory of <strong>Prof. Rivka Dikstein</strong> and focusing on understanding gene regulation and translational control in eukaryotic cells.</p>
+    <p>Welcome to my personal site! I am a <strong>PhD student in Biochemistry</strong> at the <strong>Weizmann Institute of Science</strong>, working in the laboratory of <strong>Prof. Rivka Dikstein</strong>(https://www.weizmann.ac.il/Biomolecular_Sciences/dikstein/) and focusing on understanding gene regulation and translational control in eukaryotic cells.</p>
   </div>
 </div>
 
@@ -40,5 +40,5 @@ I joined this **Python Programming for AI** course with three clear goals:
 ## 📬 Let's Connect
 
 - **Email**: [ehud.elfer@weizmann.ac.il](mailto:ehud.elfer@weizmann.ac.il)
-- **LinkedIn**: [Ehud Elfer](https://www.linkedin.com/in/ehud-elfer)
+- **LinkedIn**: [Ehud Elfer](www.linkedin.com/in/ehud-elfer-53907a227)
 - **GitHub**: [github.com/ehudelfer](https://github.com/ehudelfer)
