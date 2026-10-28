@@ -2,13 +2,13 @@
 layout: home
 ---
 
-<div class="profile-layout">
-  <img class="profile-photo" src="{{ '/site_profile.jpg' | relative_url }}" alt="Ehud Elfer" />
-  <div class="profile-text">
-    <h2>Hi I'm Ehud 👋</h2>
-    <p>Welcome to my personal site! I am a <strong>PhD student in Biochemistry</strong> at the <strong>Weizmann Institute of Science</strong>, working in the laboratory of <strong><a href="https://www.weizmann.ac.il/Biomolecular_Sciences/dikstein/" target="_blank" rel="noopener noreferrer">Prof. Rivka Dikstein</a></strong>.</p>
-  </div>
-</div>
+[Academic Background](#-academic-background--research) | [Why Python & AI?](#-why-python--ai) | [Off the Clock](#-off-the-clock) | [Connect](#-lets-connect)
+
+![Ehud Elfer]({{ '/site_profile.jpg' | relative_url }})
+
+## Hi I'm Ehud 👋
+
+Welcome to my personal site! I am a **PhD student in Biochemistry** at the **Weizmann Institute of Science**, working in the laboratory of **[Prof. Rivka Dikstein](https://www.weizmann.ac.il/Biomolecular_Sciences/dikstein/)**.
 
 ---
 
